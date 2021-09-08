@@ -12,7 +12,7 @@
     <PackageProjectUrl>$(RepositoryUrl)</PackageProjectUrl>
     <PackageTags>Image Draw Shape Path Font</PackageTags>
     <Description>An extension to ImageSharp that allows the drawing of images, paths, and text.</Description>
-    <TargetFrameworks>netcoreapp3.1;netcoreapp2.1;netstandard2.1;netstandard2.0;netstandard1.3;net472</TargetFrameworks>
+    <TargetFrameworks>netstandard2.1</TargetFrameworks>
   </PropertyGroup>
 
   <ItemGroup>
